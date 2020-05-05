@@ -1,3 +1,6 @@
+## Documentation
+* http://www.sidar.org/traducciones/wcag20/es/
+
 ## Videos de introducción (Introduction Videos)
 * 
 
@@ -16,5 +19,5 @@
 ## Subtítulos (Captioning)
 *
 
-## QSL
+## lenguaje de señas (Sign Language)
 *
