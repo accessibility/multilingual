@@ -1,7 +1,7 @@
-## Introduction Videos
+## Vidéos d'introduction (Introduction Videos)
 * 
 
-## Courses
+## Cours (Courses)
 *
 
 ## Tutorials
@@ -10,12 +10,11 @@
 ## CART
 *
 
-## Plain Language
+## Langage clair (Plain Language)
 * https://www.scolarius.com/ 
 
-## Captioning
+## Sous-titrage (Captioning)
 *
 
 ## QSL
 *
-
