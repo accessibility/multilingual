@@ -1,8 +1,8 @@
-## Vidéos d'introduction (Introduction Videos)
-* 
-
 ## Documentation
 * https://www.w3.org/Translations/WCAG20-fr/
+
+## Vidéos d'introduction (Introduction Videos)
+* 
 
 ## Cours (Courses)
 *
@@ -19,5 +19,5 @@
 ## Sous-titrage (Captioning)
 *
 
-## QSL
+## langage des signes (Sign Language)
 *
