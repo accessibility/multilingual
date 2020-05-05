@@ -4,6 +4,7 @@ Most of the resources on accessibility are English. This is a real problem for a
 This could be a matter of simply having access to WCAG 2.0 in French or it could be about having access to plain language tools developed for other languages.  This is just an informal list of things that are useful when trying to support people in a non-English context. 
 
 ## Initial List of issues to address
+- Documentation
 - Introduction Videos
 - Courses
 - Tutorials
