@@ -1,21 +1,20 @@
-## Introduction Videos
+## Videos de introducción (Introduction Videos)
 * 
 
-## Courses
+## Cursos (Courses)
 *
 
-## Tutorials
+## Tutoriales (Tutorials)
 *
 
 ## CART
 *
 
-## Plain Language
+## Lenguaje simple (Plain Language)
 * 
 
-## Captioning
+## Subtítulos (Captioning)
 *
 
 ## QSL
 *
-
