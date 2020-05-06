@@ -5,6 +5,7 @@
 * https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016L2102&from=EN
 * https://www.numerique.gouv.fr/espace-presse/accessibilite-numerique-publication-quatrieme-version-du-rgaa/
 * http://www.accede-web.com/notices
+* https://stephaniewalter.design/fr/blog/accessibilite-et-couleurs-outils-et-ressources-pour-concevoir-des-produits-accessible/
 
 ## Vidéos d'introduction (Introduction Videos)
 * [L'accessibilité numérique à toutes les étapes d'un projet](https://www.youtube.com/watch?v=y525BrxyvhA)
