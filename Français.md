@@ -4,6 +4,7 @@
 * https://cnnumerique.fr/files/uploads/2020/rap-cnnum-accessi-6.pdf
 * https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016L2102&from=EN
 * https://www.numerique.gouv.fr/espace-presse/accessibilite-numerique-publication-quatrieme-version-du-rgaa/
+* https://stephaniewalter.design/fr/blog/accessibilite-et-couleurs-outils-et-ressources-pour-concevoir-des-produits-accessible/
 
 ## Vidéos d'introduction (Introduction Videos)
 * 
