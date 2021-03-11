@@ -5,6 +5,7 @@
 * https://cnnumerique.fr/files/uploads/2020/rap-cnnum-accessi-6.pdf
 * https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016L2102&from=EN
 * https://www.numerique.gouv.fr/espace-presse/accessibilite-numerique-publication-quatrieme-version-du-rgaa/
+* http://www.accede-web.com/notices
 * https://stephaniewalter.design/fr/blog/accessibilite-et-couleurs-outils-et-ressources-pour-concevoir-des-produits-accessible/
 * https://labo.raamm.org/formation/
 * https://verslaccessibilite.ca/
@@ -13,7 +14,8 @@
 * https://documentation.unistra.fr/Catalogue/Services_pedagogiques/Ressources_Accessibles/co/guide.html
 
 ## Vidéos d'introduction (Introduction Videos)
-* 
+* [L'accessibilité numérique à toutes les étapes d'un projet](https://www.youtube.com/watch?v=y525BrxyvhA)
+* [L'accessibilité numérique en 1mn chrono !](https://www.youtube.com/watch?v=R14fuOYgJSY)
 
 ## Cours (Courses)
 *
@@ -25,10 +27,10 @@
 *
 
 ## Langage clair (Plain Language)
-* https://www.scolarius.com/ 
+* https://www.scolarius.com/
 
 ## Sous-titrage (Captioning)
 *
 
-## langage des signes (Sign Language)
+## Langue des signes (Sign Language)
 *
