@@ -15,11 +15,11 @@
 ## CART
 *
 
-## Lenguaje simple (Plain Language)
+## (Plain Language)
 * https://pypi.org/project/readability
 
-## Subtítulos (Captioning)
+## (Captioning)
 *
 
-## lenguaje de señas (Sign Language)
+## (Sign Language)
 *
