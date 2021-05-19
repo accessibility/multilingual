@@ -21,3 +21,4 @@ This could be a matter of simply having access to WCAG 2.0 in French or it could
 - [Webaim Million Language Results](https://webaim.org/projects/million/#languages)
 - https://pypi.org/project/readability/
 - https://www.tutorialspoint.com/readability-index-in-python-nlp
+- [EU: How to write clearly](https://op.europa.eu/en/publication-detail/-/publication/725b7eb0-d92e-11e5-8fea-01aa75ed71a1/language-en) - in most European languages
