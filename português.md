@@ -1,24 +1,25 @@
 
-## Documentation
+## Documentação (Documentation)
 * 
 
-## Videos de introducción (Introduction Videos)
+## Vídeos de introdução (Introduction Videos)
 * 
 
 ## Cursos (Courses)
 *
 
-## Tutoriales (Tutorials)
+## Tutoriais (Tutorials)
 *
 
 ## CART
 *
 
-## Lenguaje simple (Plain Language)
-* 
+## Linguagem clara (Plain Language)
+* [EU Redigir com clareza (PDF)](https://github.com/accessibility/multilingual/blob/master/HowToWriteClearly/HC0215257PTN.pt.pdf)
+* [TED Talk - The right to underestand](https://wordstodeeds.com/2012/08/13/plain-language-in-portugal/)
 
-## Subtítulos (Captioning)
+## Legendagem (Captioning)
 *
 
-## lenguaje de señas (Sign Language)
+## Linguagem de sinais (Sign Language)
 *
