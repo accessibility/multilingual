@@ -16,3 +16,6 @@ This could be a matter of simply having access to WCAG 2.0 in French or it could
 ## Initial languages
 - [French](https://github.com/accessibility/multilingual/blob/master/Fran%C3%A7ais.md)
 - [Spanish](https://github.com/accessibility/multilingual/blob/master/Espa%C3%B1ol.md)
+
+## General Resources
+- [Webaim Million Language Results](https://webaim.org/projects/million/#languages)
