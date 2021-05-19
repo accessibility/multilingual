@@ -28,7 +28,7 @@
 ## CART
 *
 
-## Langage clair (Plain Language)
+## communication claire (Plain Language)
 * https://www.scolarius.com/
 
 ## Sous-titrage (Captioning)
