@@ -19,3 +19,5 @@ This could be a matter of simply having access to WCAG 2.0 in French or it could
 
 ## General Resources
 - [Webaim Million Language Results](https://webaim.org/projects/million/#languages)
+- https://pypi.org/project/readability/
+- https://www.tutorialspoint.com/readability-index-in-python-nlp
