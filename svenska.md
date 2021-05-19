@@ -1,5 +1,4 @@
 ## Documentation
-* https://www.plainlanguage.gov/resources/articles/plain-language-in-sweden/
 * 
 
 ## (Introduction Videos)
@@ -14,8 +13,8 @@
 ## CART
 *
 
-## (Plain Language)
-* 
+## Klarspråk (Plain Language)
+* https://www.plainlanguage.gov/resources/articles/plain-language-in-sweden/
 
 ## (Captioning)
 *
