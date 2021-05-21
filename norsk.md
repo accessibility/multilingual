@@ -1,4 +1,5 @@
 ## Documentation
+* http://www.w3.org/Translations/WCAG20-no/
 * https://www.w3.org/WAI/translations/#norsk-norwegian
 
 ## (Introduction Videos)
