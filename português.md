@@ -1,6 +1,7 @@
 
 ## Documentação (Documentation)
-* 
+* https://www.w3.org/WAI/translations/#portugus-europeu-european-portuguese
+* https://www.w3.org/WAI/translations/#portugus-do-brasil-brazilian-portuguese
 
 ## Vídeos de introdução (Introduction Videos)
 * 
