@@ -1,5 +1,7 @@
 
 ## Documentação (Documentation)
+* https://www.w3.org/Translations/WCAG20-pt-PT/
+* https://www.w3.org/Translations/WCAG20-pt-BR/
 * https://www.w3.org/WAI/translations/#portugus-europeu-european-portuguese
 * https://www.w3.org/WAI/translations/#portugus-do-brasil-brazilian-portuguese
 
