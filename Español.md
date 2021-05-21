@@ -1,4 +1,5 @@
 ## Documentation
+* http://www.sidar.org/traducciones/wcag20/es/
 * https://www.w3.org/WAI/translations/#espaol-spanish
 * http://www.sidar.org/traducciones/wcag20/es/
 * https://linktr.ee/lengua_franca
