@@ -1,6 +1,8 @@
 ## Documentation
 * http://www.sidar.org/traducciones/wcag20/es/
-
+* https://linktr.ee/lengua_franca
+* http://www.lecturafacil.net
+* https://www.institutolecturafacil.org
 
 ## Videos de introducción (Introduction Videos)
 * 
