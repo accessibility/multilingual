@@ -1,5 +1,5 @@
 ## Documentation
-* 
+* https://www.w3.org/WAI/translations/#deutsch-german
 
 ## (Introduction Videos)
 * 
