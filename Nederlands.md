@@ -1,4 +1,6 @@
 ## Documentation
+* https://www.w3.org/Translations/WCAG21-nl/
+* https://www.w3.org/WAI/translations/#nederlands-dutch
 * https://www.accessibility.nl/
 
 ## (Introduction Videos)
