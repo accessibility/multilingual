@@ -1,4 +1,5 @@
 ## Documentation
+* http://www.w3.org/Translations/WCAG20-de/
 * https://www.w3.org/WAI/translations/#deutsch-german
 
 ## (Introduction Videos)
