@@ -6,6 +6,9 @@
 * http://www.lecturafacil.net
 * https://www.institutolecturafacil.org
 
+## Tools
+* https://www.tawdis.net/index?lang=es
+
 ## Videos de introducción (Introduction Videos)
 * 
 
