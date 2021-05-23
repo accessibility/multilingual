@@ -15,8 +15,10 @@
 ## Tutoriales (Tutorials)
 *
 
-## CART
-*
+## Subtitulación (CART & Captioning)
+* https://www.mqd.es/accesibilidad-audiovisual/subtitulado-en-directo/
+* https://medya-audiovisual.com/subtitulado-de-videos-empresa-audiovisual/
+* https://www.esteno.cl/servicios/eventos-y-reuniones-en-vivo/
 
 ## lenguaje claro (Plain Language)
 * https://langsolinc.com/testing-for-spanish-readability/
