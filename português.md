@@ -5,6 +5,9 @@
 * https://www.w3.org/WAI/translations/#portugus-europeu-european-portuguese
 * https://www.w3.org/WAI/translations/#portugus-do-brasil-brazilian-portuguese
 
+# Tools
+* https://www.tawdis.net/index?lang=pt
+
 ## Vídeos de introdução (Introduction Videos)
 * 
 
