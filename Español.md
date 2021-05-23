@@ -10,7 +10,7 @@
 * https://www.tawdis.net/index?lang=es
 
 ## Videos de introducción (Introduction Videos)
-* 
+* https://www.youtube.com/channel/UCzXK8KSMoOutfsfCDrLIGSQ/featured
 
 ## Cursos (Courses)
 *
