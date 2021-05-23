@@ -7,6 +7,8 @@
 
 # Tools
 * https://www.tawdis.net/index?lang=pt
+* https://www.deque.com/axe/ - Axe Core includes support
+
 
 ## Vídeos de introdução (Introduction Videos)
 * 
