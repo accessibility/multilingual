@@ -2,6 +2,9 @@
 * http://www.w3.org/Translations/WCAG20-sv/
 * https://www.w3.org/WAI/translations/#svenska-swedish
 
+## Tools
+* https://developers.google.com/web/tools/lighthouse/
+
 ## (Introduction Videos)
 * 
 
