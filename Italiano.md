@@ -18,7 +18,7 @@
 *
 
 ## lenguaje claro (Plain Language)
-* 
+* https://hurraki.org/italiano/wiki/Pagina_principale
 
 ## Subtítulos (Captioning)
 *
