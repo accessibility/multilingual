@@ -9,6 +9,7 @@
 ## Tools
 * https://www.tawdis.net/index?lang=es
 * https://www.deque.com/axe/ - Axe Core includes support
+* https://developers.google.com/web/tools/lighthouse/
 
 ## Videos de introducción (Introduction Videos)
 * https://www.youtube.com/channel/UCzXK8KSMoOutfsfCDrLIGSQ/featured
