@@ -20,6 +20,7 @@
 
 ## Klarspråk (Plain Language)
 * https://www.plainlanguage.gov/resources/articles/plain-language-in-sweden/
+* https://readabilityformulas.com/the-LIX-readability-formula.php
 
 ## (Captioning)
 *
