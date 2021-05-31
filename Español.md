@@ -31,6 +31,8 @@
 * https://readable.com/blog/creating-readability-formulas-for-non-english-languages-the-problem-of-the-syllable/
 * https://emmresourcecenter.org/resources/tips-using-plain-language-spanish
 * https://hurraki.org/espanol/wiki/P%c3%a1gina_principal
+* https://datayze.com/readability-analyzer - for Fry Graph and assortment of others
+* https://readabilityformulas.com/free-fry-graph-test.php - for Fry Graph
 
 ## Subtítulos (Captioning)
 *
