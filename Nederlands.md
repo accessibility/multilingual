@@ -3,10 +3,10 @@
 * https://www.w3.org/WAI/translations/#nederlands-dutch
 * https://www.digitoegankelijk.nl/
 * https://www.oogvereniging.nl/leven-werken/
-* https://ismijnsitetoegankelijk.nl/ Hoe toegankelijk is jouw website? (How accessible is your website?)
 * https://www.accessibility.nl/
 
 ## (Tools)
+* https://ismijnsitetoegankelijk.nl/ Hoe toegankelijk is jouw website? (How accessible is your website?)
 * https://www.deque.com/axe/ - Axe Core includes support
 * https://developers.google.com/web/tools/lighthouse/
 
