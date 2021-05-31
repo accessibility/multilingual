@@ -1,6 +1,9 @@
 ## Documentation
 * https://www.w3.org/Translations/WCAG21-nl/
 * https://www.w3.org/WAI/translations/#nederlands-dutch
+* https://www.digitoegankelijk.nl/
+* https://www.oogvereniging.nl/leven-werken/
+* https://ismijnsitetoegankelijk.nl/ Hoe toegankelijk is jouw website? (How accessible is your website?)
 * https://www.accessibility.nl/
 
 ## (Tools)
