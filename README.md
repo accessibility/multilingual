@@ -23,3 +23,10 @@ This could be a matter of simply having access to WCAG 2.0 in French or it could
 - [EU: How to write clearly](https://op.europa.eu/en/publication-detail/-/publication/725b7eb0-d92e-11e5-8fea-01aa75ed71a1/language-en) - in most European languages
 - https://pypi.org/project/readability/
 - https://www.tutorialspoint.com/readability-index-in-python-nlp
+
+
+# Language support
+- [JAWS Language Support](https://www.freedomscientific.com/SurfsUp/Languages.htm)
+- [NVDA Language Support](https://www.nvaccess.org/files/nvda/documentation/userGuide.html#Internationalization)
+- [VoiceOver Language Support](https://support.apple.com/en-ca/HT206175)
+- [Microsoft Edge Immersive Reader Support](https://support.microsoft.com/en-us/topic/languages-and-products-supported-by-immersive-reader-47f298d6-d92c-4c35-8586-5eb81e32a76e)
