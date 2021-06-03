@@ -1,12 +1,12 @@
 ## Documentation
 * http://www.w3.org/Translations/WCAG20-de/
 * https://www.w3.org/WAI/translations/#deutsch-german
-* https://wiki.selfhtml.org/wiki/Barrierefreiheit/Grundlagen
+* https://wiki.selfhtml.org/wiki/Barrierefreiheit
 * https://www.access-for-all.ch/ch/ - Willkommen bei «Zugang für alle»
 * http://www.barrierefreie-informationskultur.de/ - Barrierefreie Informationskultur
 * https://www.barrierefreies-webdesign.de/ - Barrierefreies Webdesign
 * https://iaap-dach.org/nachrichten.html - IAAP D-A-CH
-* 
+
 
 ## (Introduction Videos)
 * 
