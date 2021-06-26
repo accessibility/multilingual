@@ -30,6 +30,7 @@ This could be a matter of simply having access to WCAG 2.0 in French or it could
 - https://readabilityformulas.com
 - https://webaim.org/projects/million/#languages
 - https://readable.com/blog/creating-readability-formulas-for-non-english-languages-the-problem-of-the-syllable/
+- https://www.w3.org/WAI/GL/WCAG3/2020/how-tos/clear-words/
 
 # Language support
 - [JAWS Language Support](https://www.freedomscientific.com/SurfsUp/Languages.htm)
