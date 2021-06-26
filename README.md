@@ -25,6 +25,12 @@ This could be a matter of simply having access to WCAG 2.0 in French or it could
 - https://www.tutorialspoint.com/readability-index-in-python-nlp
 
 
+# Plain Language
+- https://www.w3.org/WAI/GL/WCAG3/2020/how-tos/clear-words/
+- https://readabilityformulas.com
+- https://webaim.org/projects/million/#languages
+- https://readable.com/blog/creating-readability-formulas-for-non-english-languages-the-problem-of-the-syllable/
+
 # Language support
 - [JAWS Language Support](https://www.freedomscientific.com/SurfsUp/Languages.htm)
 - [NVDA Language Support](https://www.nvaccess.org/files/nvda/documentation/userGuide.html#Internationalization)
