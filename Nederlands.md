@@ -24,6 +24,7 @@
 
 ## begrijpelijke taal (Plain Language)
 * https://puntann.nl/testjetekst/
+* https://www.goedbegin.info/
 * https://www.duidelijketaal.be/blog
 * https://pypi.org/project/readability
 * https://www.tutorialspoint.com/readability-index-in-python-nlp
