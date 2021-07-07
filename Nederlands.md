@@ -4,6 +4,7 @@
 * https://www.digitoegankelijk.nl/
 * https://www.oogvereniging.nl/leven-werken/
 * https://www.accessibility.nl/
+* https://www.goedbegin.info/
 
 ## (Tools)
 * https://ismijnsitetoegankelijk.nl/ Hoe toegankelijk is jouw website? (How accessible is your website?)
@@ -24,7 +25,6 @@
 
 ## begrijpelijke taal (Plain Language)
 * https://puntann.nl/testjetekst/
-* https://www.goedbegin.info/
 * https://www.duidelijketaal.be/blog
 * https://pypi.org/project/readability
 * https://www.tutorialspoint.com/readability-index-in-python-nlp
