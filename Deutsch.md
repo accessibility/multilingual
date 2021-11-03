@@ -42,3 +42,4 @@
 
 ## Glossary of Common terms
 * https://www.thoughtco.com/english-german-computer-and-internet-glossary-4085499
+* https://www.languagewire.com/en/blog/common-website-terms-translations
