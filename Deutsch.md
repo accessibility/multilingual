@@ -39,3 +39,6 @@
 
 ## (Sign Language)
 *
+
+## Glossary of Common terms
+* https://www.thoughtco.com/english-german-computer-and-internet-glossary-4085499
