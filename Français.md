@@ -44,3 +44,8 @@
 
 ## Langue des signes (Sign Language)
 *
+
+## Glossary of Common terms
+* https://www.fluentu.com/blog/french/french-technology-vocab/
+* https://www.fslhomeworktoolbox.ca/toolbox/internet_terminology/computer_vocab_eng.php
+* 
