@@ -39,3 +39,7 @@
 
 ## lenguaje de señas (Sign Language)
 *
+
+## Glossary of Common terms
+* https://www.brighthubeducation.com/learning-spanish/42602-vocabulary-terms-related-to-computers/
+* https://www.lingolex.com/internet.htm
